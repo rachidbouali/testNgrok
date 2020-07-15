@@ -23,6 +23,8 @@ public class AppCtr {
         System.out.println("Astlavista!");
         
         System.out.println("Merci!");
+        
+        System.out.println("Thanks!");
     }
     
 }
